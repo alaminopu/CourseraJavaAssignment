@@ -1,0 +1,38 @@
+[
+	{
+		"id": "1",
+		"district": "Manikgonj",
+		"place": "Baliati Palace, Saturia",
+		"coordinates": [23.99374,90.0392521],
+	},
+	{
+		"id": "2",
+		"district": "Tangail", 
+		"place": "Arrah Jamidar Bari, Nagorpur",
+		"coordinates": [24.1219307,89.8672704],
+	},
+	{
+		"id": "3",
+		"district": "Dhaka",
+		"place": "Dia Bari, Uttara",
+		"coordinates": [23.876798,90.357065],
+	},
+	{
+		"id": "4",
+		"district": "Dhaka",
+		"place": "Bangabandhu Sheikh Mujibur Rahman Novo Theatre",
+		"coordinates": [23.7637296,90.3851545],
+	},
+	{
+		"id": "5",
+		"district": "Barisal",
+		"place": "Barisal Launchghat",
+		"coordinates": [22.6996007,90.3719847],
+	},
+	{
+		"id": "6",
+		"district": "Bhola",
+		"place": "Charpata, Daulatkhan",
+		"coordinates": [22.666880,90.699523],
+	}
+]
