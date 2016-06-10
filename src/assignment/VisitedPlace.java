@@ -46,7 +46,7 @@ public class VisitedPlace extends PApplet {
 		
 		for(PointFeature feature : features){
 			PlaceMarker m = new PlaceMarker(feature);
-			m.setRadius(20);
+			m.setRadius(5);
 			placeMarkers.add(m);
 			
 			places.put(Integer.parseInt(feature.getId()), feature.getLocation());
